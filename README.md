@@ -107,4 +107,4 @@ Atlas does not currently have a stable release and it's current value is primari
 
 ## Enterprise Support
 
-Enterprise support, custom deployments, strategy development, and other services are available through [Gryphon Labs](http://www.http://www.gryphonlabs.co). If you're a firm interested in using Gryphon, you can schedule a chat with us or contact one of the maintainers directly.
+Enterprise support, custom deployments, strategy development, and other services are available through [Gryphon Labs](http://www.gryphonlabs.co). If you're a firm interested in using Gryphon, you can schedule a chat with us or contact one of the maintainers directly.
