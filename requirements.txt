@@ -39,7 +39,7 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kiwisolver==1.1.0
 line-profiler==2.1.2
-Mako==1.0.7
+Mako==1.2.2
 Markdown==3.1.1
 MarkupSafe==1.0
 matplotlib==2.2.5
